@@ -1,0 +1,25 @@
+
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-dz" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-td" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-km" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-bh" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-dj" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-iq" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-eg" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-jo" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-kw" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-lb" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-ly" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-ma" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-mr" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-om" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-qa" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-sa" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-so" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-sd" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-sy" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-tn" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-ae" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-ye" />
+  <link rel="alternate" href="{{ route('blog', '/ar') }}" hreflang="ar-ps" />
